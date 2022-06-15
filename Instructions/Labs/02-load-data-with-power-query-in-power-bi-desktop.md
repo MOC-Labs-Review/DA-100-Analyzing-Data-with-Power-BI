@@ -389,7 +389,7 @@ In this task you will configure the **Region** query.
 
 2. Rename the query to **Region**.
 
-3. Apply a filter to the **SalesTerritoryAlternateKey** column to remove the value 0 (zero).
+3. Apply a filter to the **SalesTerritoryAlternateKey** column to remove the value 0 (zero) (if any records found).
 
 	![Picture 5660](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image44.png)
 
