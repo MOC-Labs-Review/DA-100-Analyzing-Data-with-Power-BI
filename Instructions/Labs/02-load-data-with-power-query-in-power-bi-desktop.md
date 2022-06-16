@@ -411,7 +411,7 @@ In this task you will configure the **Region** query.
 
 	- **SalesTerritoryGroup** to **Group**
 
-6. In the status bar, verify that the query has four columns and 10 rows.
+6. In the status bar, verify that the query has four columns and 11 rows.
 
 	![Picture 5661](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image45.png)
 
