@@ -323,7 +323,7 @@ Data alerts can only be configured on dashboard tiles, and specifically tiles th
 
     ![Picture 25](Linked_image_Files/09-create-power-bi-dashboard_image43.png)
 
-3. In the **Threshold** box, replace the value with **35000000** (35 million).
+3. Enter **Alert for Sales YTD** for **Alert title** and in the **Threshold** box, replace the value with **35000000** (35 million).
 
     ![Picture 26](Linked_image_Files/09-create-power-bi-dashboard_image44.png)
 
