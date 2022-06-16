@@ -407,7 +407,7 @@ In this task you will add two buttons, and assign bookmark actions to each.
 
 4. Expand the **Button Text** section, and then in the **Button Text** box, enter **Bar Chart**.
 
-5. Expand the **Background** section, and then set a background color using a complementary color.
+5. Turn the **Background** property to **On**, and then expand the **Background** section. Set a background color using a complementary color.
 
 6. Turn the **Action** property to **On** (located near the bottom of the list).
 
